@@ -1,6 +1,9 @@
 Decide on pizza restuarant
 Decide on pizza
+choose toppings
+choose sauce
 call and order
 Wait on delivery
 Pay the driver
 Eat the pizza
+Recycle the box
